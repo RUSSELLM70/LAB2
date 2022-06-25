@@ -14,8 +14,7 @@ const App = () => {
   return (
     <Router>
       <Header/>
-      <Container>
-               
+      <Container>  
          <Pokemones/>
         <Route exact path='/' component={Homepage} />
         <Route path='/pokemon/:id' component={PokemonPage}/>
