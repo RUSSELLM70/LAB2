@@ -16,7 +16,7 @@ const Loader = () => {
             </Row>
             <Row>
                 <Col>
-                    <div className='mx-3'> Fetching Pokemon...</div>
+                    <div className='mx-3'> Cargando Pokemones...</div>
                 </Col>
             </Row>
         </div>

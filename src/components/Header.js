@@ -8,7 +8,7 @@ const Header = () => {
             <Navbar bg="dark" variant='dark' expand="lg" collapseOnSelect>
                 <Container>
                     <LinkContainer to="/">
-                        <Navbar.Brand>React Lab2</Navbar.Brand>
+                        <Navbar.Brand> Lab2</Navbar.Brand>
                     </LinkContainer>
                 </Container>
             </Navbar>
