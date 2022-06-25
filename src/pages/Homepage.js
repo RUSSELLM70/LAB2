@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Row, Col } from 'react-bootstrap';
 import Select from 'react-select';
 
-// Components
+// Components views
 import Pokemon from '../components/Pokemon';
 import Loader from '../components/Loader';
 

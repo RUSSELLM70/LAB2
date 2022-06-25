@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Card, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 
-// Components
+// Components view
 import Loader from '../components/Loader';
 
 const PokemonPage = ({ match }) => {
