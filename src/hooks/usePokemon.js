@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 
 const usePokemon = (url) => {
-
+//Create hook
   const [pokemones, setPokemones] = useState([]);
   const [loading, setLoading] = useState(true);
 
